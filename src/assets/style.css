@@ -79,7 +79,7 @@ main {
     font-size: 2.5em;
     color: white;
     text-shadow: black 1px 1px 10px;
-    top: 1.2rem;
+    top: 1.5rem;
     left: 50%;
     transform: translate(-50%, 0);
     text-transform: capitalize;
@@ -87,6 +87,8 @@ main {
     line-height: normal;
     padding: 0;
     margin: 0;
+    width: 100%;
+    text-align: center;
 }
 
 .bottom-text{
@@ -95,7 +97,7 @@ main {
     font-size: 2.5em;
     color: white;
     text-shadow: black 1px 1px 10px;
-    bottom: 1.8rem;
+    bottom: 2rem;
     left: 50%;
     transform: translate(-50%, 0);
     text-transform: capitalize;
@@ -103,4 +105,6 @@ main {
     line-height: normal;
     padding: 0;
     margin: 0;
+    width: 100%;
+    text-align: center;
 }
